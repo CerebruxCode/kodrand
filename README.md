@@ -3,4 +3,4 @@
 
 Το αποθετήριο περιλαμβάνει τον κώδικα που δημιουργήθηκε για το άρθρο :
 
- http://cerebrux.net/2016/05/10/dimiourgia-tuxaion-kodikon-termatiko-dev-random
+ http://cerebrux.net/2016/05/11/dimiourgia-tuxaion-kodikon-termatiko-dev-random
