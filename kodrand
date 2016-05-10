@@ -1,0 +1,11 @@
+#!/usr/bin/env sh
+# Προγραμματάκι που παράγει τυχαίους κωδικούς
+# με βάση την ημερομηνία-ώρα-λεπτά-δευτερόλεπτα
+# Πηγή: http://cerebrux.net/2016/05/10/dimiourgia-tuxaion-kodikon-termatiko-dev-random
+# -------------cerebrux.net--------------------
+
+for apotelesma in `seq 1 5`
+    do
+        strings /dev/urandom | tr -d '[:blank:]' | head -n 5 | tr -d '\n'| head -c 10
+        echo ""
+    done
