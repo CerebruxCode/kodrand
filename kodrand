@@ -1,7 +1,7 @@
 #!/usr/bin/env sh
 # Προγραμματάκι που παράγει τυχαίους κωδικούς
 # με βάση την ημερομηνία-ώρα-λεπτά-δευτερόλεπτα
-# Πηγή: http://cerebrux.net/2016/05/10/dimiourgia-tuxaion-kodikon-termatiko-dev-random
+# Πηγή: http://cerebrux.net/2016/05/11/dimiourgia-tuxaion-kodikon-termatiko-dev-random
 # -------------cerebrux.net--------------------
 
 for apotelesma in `seq 1 5`
